@@ -1,0 +1,9 @@
+{
+  "path": "$PDIR/api/style/icons",
+  "cpath": "$PDIR/api/style/custom/icons",
+
+  "custom": {
+    "name": "", /* add your name */
+    "project name": "", /* add your project name */
+  },
+}
